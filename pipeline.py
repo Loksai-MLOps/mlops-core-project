@@ -103,7 +103,7 @@ def train_op():
 
 
 @dsl.pipeline(
-    name="mlops-core-learning-pipeline"
+    name="loksai-app"
 )
 def pipeline():
 
